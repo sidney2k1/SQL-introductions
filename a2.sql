@@ -8,3 +8,4 @@ VALUES ("5000","john","new york",0.15),
 ("5005","jake","beijing",0.10),
 ("5006","jamal","tokyo",0.19);
 SELECT*FROM salesman;
+SELECT name,city FROM salesman;
